@@ -1,0 +1,794 @@
+header{
+	background-color: #91D8F7;
+	width: 1348px;
+	height: 68px;
+	margin-top: -8px;
+	margin-right: -0px;
+	margin-left: -8px;
+	margin-bottom: 180px;
+	
+}
+.logo{
+	position: absolute;
+	width: 50px;
+	margin-top: -5px;
+	margin-left: 5px;
+}
+.tree{
+	font-size: 25px;
+	position: absolute;
+	margin-left: 70px;
+}
+.ikon{
+	margin-top: -5px;
+	margin-left: 280px;
+	width: 30px;
+	height:30px;
+}
+.tree2{
+	margin-left: 820px;
+	font-size: 25px;
+	position: absolute;
+}
+.garis{
+	position: absolute;
+	width: 4px;
+	margin-left: 900px;
+	margin-top: -10px;
+}
+.tree3{
+	margin-left: 920px;
+	font-size: 25px;
+	position: absolute;
+}
+.ikon2{
+	width: 30px;
+	height: 30px;
+	margin-left: 990px;
+}
+.lonceng{
+	position: absolute;
+	width: 40px;
+	margin-top: -7px;
+	margin-left: 720px;
+}
+.akun{
+	position: absolute;
+	width: 240px;
+	margin-left: 780px;
+}
+/*masuk*/
+.judul{
+	font-size: 35px;
+	margin-left: 650px;
+}
+.back{
+	width: 1040px;
+	margin-left: 300px;
+	margin-bottom: -164px;
+}
+.Daftar{
+	position: absolute;
+	background-color: white;
+	margin-top: -490px;
+	margin-left: 60px;
+	width: 380px;
+	height: 150px;
+	border-radius: 5px;
+	box-shadow: 4px 8px grey;
+}
+.notif label[for="daf"]{
+	font-size: 25px;
+	margin-left: 60px;
+}
+.notif input[type="submit"]{
+	margin-left: 85px;
+	background-color: white;
+	width: 190px;
+	height: 40px;
+	border: 1px solid;
+	color: #91D8F7;
+	border-radius: 4px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.FB{
+	position: absolute;
+	background-color: white;
+	margin-top: -290px;
+	margin-left: 60px;
+	width: 380px;
+	height: 150px;
+	border-radius: 5px;
+	box-shadow: 4px 8px grey;
+}
+.face label[for="daf"]{
+	font-size: 25px;
+	margin-left: 60px;
+}
+.ket{
+	margin-left: 90px;
+}
+.fb{
+	margin-left: 85px;
+	width: 190px;
+	height: 40px;
+}
+.Log{
+	position: absolute;
+	background-color: white;
+	margin-top: -490px;
+	margin-left: 530px;
+	width: 740px;
+	height: 440px;
+	border-radius: 5px;
+	box-shadow: 4px 8px grey;
+}
+.title{
+	font-size: 30px;
+	margin-left: 90px;
+}
+.lupa{
+	margin-left: 50px;
+}
+form{
+	margin-left: 10px;
+}
+.Masuk label[for="Email"],
+.Masuk label[for="Password"]{
+	font-family: sans-serif;
+	font-size: 16px;
+	margin-left: 40px;
+}
+.Masuk input[type="text"],
+.Masuk input[type="password"]{
+	width: 88%;
+	height: 30px;
+	margin-left: 40px;
+	background: #eeeeee;
+	border-radius: 5px;
+	border: 1px solid;
+	border-color: steelblue;
+	color: black;
+	font-family: sans-serif;
+	font-size: 16px;
+
+}
+.lihat input[type="checkbox"]{
+	margin-left: 550px;
+}
+.tetap input[type="checkbox"]{
+	margin-left: 40px;
+}
+.submit input[type="submit"]{
+	border-radius: 3px;
+	background-color: steelblue;
+	width: 100px;
+	height: 30px;
+	margin-left: 40px;
+	border: none;
+	color: white;
+}
+/*pendaftaran*/
+.back1{
+	width: 1040px;
+	margin-left: 300px;
+	margin-bottom: -164px;
+}
+.gam{
+	position: absolute;
+	width: 420px;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+.line{
+	position: absolute;
+	margin-top: 320px;
+	margin-left: 55px;
+	width:410px;
+
+}
+.formulir{
+	position: absolute;
+	background-color: white;
+	width: 1200px;
+	height: 500px;
+	margin-top: -500px;
+	margin-left: 65px;
+	border-radius: 5px;
+	box-shadow: 4px 8px grey;
+
+}
+.formulir .nama label[for="depan"],
+.formulir .email label[for="mail"],
+.formulir .password label[for="pass"]{
+	margin-left: 600px;
+}
+.formulir .nama label[for="belakang"]{
+	margin-left: 155px;
+}
+.formulir .password label[for="word"]{
+	margin-left: 183px;
+}
+.formulir .nama label[for="depan"],
+.formulir .nama label[for="belakang"],
+.formulir .email label[for="mail"],
+.formulir .password label[for="pass"],
+.formulir .password label[for="word"]{
+	font-family: sans-serif;
+	font-size: 18px;
+}
+.formulir .nama input[type="text"],
+.formulir .password input[type="password"]{
+	margin-left: 600px;
+	background-color: #eeeeee;
+	border-radius: 5px;
+	width: 20%;
+	height: 30px;
+	border: 1px solid;
+	border-color: steelblue;
+}
+.formulir .email input[type="text"]{
+	margin-left: 600px;
+	background-color: #eeeeee;
+	border-radius: 5px;
+	width: 42.5%;
+	height: 30px;
+	border: 1px solid;
+	border-color: steelblue;
+}
+.formulir .form input[type="submit"]{
+	margin-left: 600px;
+	width: 400x;
+	height: 30px;
+	border-radius: 5px;
+	border: none;
+	background-color: steelblue;
+	color: white;
+	font-size: 10px;
+}
+.syarat {
+	font-size: 12px;
+}
+/*form*/
+.back3{
+	width: 1040px;
+	margin-left: 300px;
+	margin-bottom: -1205px;
+}
+.jud{
+	position: absolute;
+	font-size: 40px;
+	margin-top: -130px;
+	margin-left: 550px;
+}
+.desk{
+	position: absolute;
+	font-size: 20px;
+	margin-top: -50px;
+	margin-left: 430px;
+}
+.pic1{
+	position: absolute;
+	margin-top: -20px;
+	margin-left: 80px;
+	width: 140px;
+}
+.teks1{
+	position: absolute;
+	margin-left: 120px;
+	margin-top: 120px;
+	font-size: 30px;
+}
+.pic2{
+	position: absolute;
+	margin-top: -0px;
+	margin-left: 270px;
+	width: 140px;	
+}
+.teks2{
+	position: absolute;
+	margin-left: 310px;
+	margin-top: 140px;
+	font-size: 30px;
+}
+.pic3{
+	position: absolute;
+	margin-top: -0px;
+	margin-left: 420px;
+	width: 140px;	
+}
+.teks3{
+	position: absolute;
+	margin-left: 470px;
+	margin-top: 140px;
+	font-size: 30px;
+}
+.pic4{
+	position: absolute;
+	margin-top: -0px;
+	margin-left: 610px;
+	width: 140px;	
+}
+.teks4{
+	position: absolute;
+	margin-left: 640px;
+	margin-top: 140px;
+	font-size: 30px;
+}
+.pic5{
+	position: absolute;
+	margin-top: -0px;
+	margin-left: 760px;
+	width: 140px;	
+}
+.teks5{
+	position: absolute;
+	margin-left: 790px;
+	margin-top: 140px;
+	font-size: 30px;
+}
+.pic6{
+	position: absolute;
+	margin-top: -0px;
+	margin-left: 950px;
+	width: 140px;	
+}
+.teks6{
+	position: absolute;
+	margin-left: 980px;
+	margin-top: 140px;
+	font-size: 30px;
+}
+.pic7{
+	position: absolute;
+	margin-top: -0px;
+	margin-left: 1100px;
+	width: 140px;	
+}
+.teks7{
+	position: absolute;
+	margin-left: 1130px;
+	margin-top: 140px;
+	font-size: 30px;
+}
+.form1{
+	position: absolute;
+	background-color: white;
+	width:800px;
+	height: 950px;
+	margin-top: 200px;
+	margin-left: 270px;
+}
+.and{
+	margin-top: 50px;
+	margin-left: 70px;
+	margin-bottom: 20px;
+	width: 160px;
+}
+.form1 label[for="siapa"],
+.form1 img[class="garis1"],
+.form1 img[class="garis2"]{
+	margin-left: 90px;
+
+}
+.form1 label[for="jens"]{
+	position: absolute;
+	margin-left: -604px;
+	margin-top: 50px;
+}
+.form1 img[class="garis1"]{
+	width: 600px;
+	margin-top: 20px;
+}
+.form1 img[class="garis2"]{
+	width: 600px;
+	margin-top: 65px;
+}
+.form1 input[class="radio1"]{
+	margin-left: 288px;
+}
+.form1 input[class="radio2"]{
+	margin-left: 70px;
+}
+.form1 input[class="radio3"]{
+	position: absolute;
+	margin-left: -272.5px;
+	margin-top: 50px;
+}
+.form1 label[for="lk"]{
+	position: absolute;
+	margin-left: -252.5px;
+	margin-top: 50px;
+}
+.form1 img[class="foto1"]{
+	position: absolute;
+	width: 40px;
+	margin-left: -210px;
+	margin-top: 37px;
+}
+.form1 input[class="radio4"]{
+	position: absolute;
+	margin-left: -143.5px;
+	margin-top: 50px;
+}
+.form1 label[for="prmpn"]{
+	position: absolute;
+	margin-left: -123.5px;
+	margin-top: 50px;
+}
+.form1 img[class="foto2"]{
+	position: absolute;
+	width: 40px;
+	margin-left: -68px;
+	margin-top: 37px;
+}
+.form1 input[type="text"],
+.form1 select[class="tahun"]{
+	margin-left: 90px;
+	background-color: #eeeeee;
+	border-radius: 5px;
+	width: 76%;
+	height: 30px;
+	border: 1px solid;
+	border-color: steelblue;
+}
+.form1 label[for="depan"],
+.form1 label[for="belakang"],
+.form1 label[for="lahir"],
+.form1 label[for="Tahun"],
+.form1 label[for="pohon"]{
+	margin-left: 90px;
+}
+.form1 input[type="submit"]{
+	margin-left: 90px;
+	background-color: #57A695;
+	border-radius: 5px;
+	width: 76%;
+	height: 30px;
+	border: none;
+	font-size: 20px;
+	color: black;
+}
+/*form2*/
+.form2{
+	position: absolute;
+	background-color: white;
+	width:800px;
+	height: 780px;
+	margin-top: 200px;
+	margin-left: 270px;
+}
+.back3{
+	width: 1040px;
+	margin-left: 300px;
+	margin-bottom: -1205px;
+}
+.jud{
+	position: absolute;
+	font-size: 40px;
+	margin-top: -130px;
+	margin-left: 550px;
+}
+.desk{
+	position: absolute;
+	font-size: 20px;
+	margin-top: -50px;
+	margin-left: 430px;
+}
+.pic8{
+	position: absolute;
+	margin-top: -0px;
+	margin-left: 80px;
+	width: 140px;
+}
+.teks8{
+	position: absolute;
+	margin-left: 120px;
+	margin-top: 140px;
+	font-size: 30px;
+}
+.pic9{
+	position: absolute;
+	margin-top: -20px;
+	margin-left: 270px;
+	width: 140px;	
+}
+.teks9{
+	position: absolute;
+	margin-left: 310px;
+	margin-top: 120px;
+	font-size: 30px;
+}
+.pic3{
+	position: absolute;
+	margin-top: -0px;
+	margin-left: 420px;
+	width: 140px;	
+}
+.teks3{
+	position: absolute;
+	margin-left: 470px;
+	margin-top: 140px;
+	font-size: 30px;
+}
+.pic4{
+	position: absolute;
+	margin-top: -0px;
+	margin-left: 610px;
+	width: 140px;	
+}
+.teks4{
+	position: absolute;
+	margin-left: 640px;
+	margin-top: 140px;
+	font-size: 30px;
+}
+.pic5{
+	position: absolute;
+	margin-top: -0px;
+	margin-left: 760px;
+	width: 140px;	
+}
+.teks5{
+	position: absolute;
+	margin-left: 790px;
+	margin-top: 140px;
+	font-size: 30px;
+}
+.pic6{
+	position: absolute;
+	margin-top: -0px;
+	margin-left: 950px;
+	width: 140px;	
+}
+.teks6{
+	position: absolute;
+	margin-left: 980px;
+	margin-top: 140px;
+	font-size: 30px;
+}
+.pic7{
+	position: absolute;
+	margin-top: -0px;
+	margin-left: 1100px;
+	width: 140px;	
+}
+.teks7{
+	position: absolute;
+	margin-left: 1130px;
+	margin-top: 140px;
+	font-size: 30px;
+}
+.and{
+	margin-top: 50px;
+	margin-left: 70px;
+	margin-bottom: 20px;
+	width: 160px;
+}
+.form2 label[for="siapa"],
+.form2 img[class="garis1"],
+.form2 img[class="garis2"]{
+	margin-left: 90px;
+
+}
+.form2 label[for="jens"]{
+	position: absolute;
+	margin-left: -604px;
+	margin-top: 50px;
+}
+.form2 img[class="garis1"]{
+	width: 600px;
+	margin-top: 20px;
+}
+.form2 img[class="garis2"]{
+	width: 600px;
+	margin-top: 65px;
+}
+.form2 input[class="radio1"]{
+	margin-left: 288px;
+}
+.form2 input[class="radio2"]{
+	margin-left: 70px;
+}
+.form2 input[class="radio3"]{
+	position: absolute;
+	margin-left: -272.5px;
+	margin-top: 50px;
+}
+.form2 label[for="lk"]{
+	position: absolute;
+	margin-left: -252.5px;
+	margin-top: 50px;
+}
+.form2 img[class="foto1"]{
+	position: absolute;
+	width: 40px;
+	margin-left: -210px;
+	margin-top: 37px;
+}
+.form2 input[class="radio4"]{
+	position: absolute;
+	margin-left: -143.5px;
+	margin-top: 50px;
+}
+.form2 label[for="prmpn"]{
+	position: absolute;
+	margin-left: -123.5px;
+	margin-top: 50px;
+}
+.form2 img[class="foto2"]{
+	position: absolute;
+	width: 40px;
+	margin-left: -68px;
+	margin-top: 37px;
+}
+.form2 input[type="text"],
+.form2 select[class="tahun"]{
+	margin-left: 90px;
+	background-color: #eeeeee;
+	border-radius: 5px;
+	width: 76%;
+	height: 30px;
+	border: 1px solid;
+	border-color: steelblue;
+}
+.form2 label[for="depan"],
+.form2 label[for="belakang"],
+.form2 label[for="lahir"],
+.form2 label[for="Tahun"],
+.form2 label[for="pohon"]{
+	margin-left: 90px;
+}
+.form2 input[type="submit"]{
+	margin-left: 90px;
+	background-color: #57A695;
+	border-radius: 5px;
+	width: 76%;
+	height: 30px;
+	border: none;
+	font-size: 20px;
+	color: black;
+}
+/*tree*/
+.titl{
+	position: absolute;
+	margin-left: 600px;
+	margin-top: -90px;
+	font-size: 40px;
+}
+.form3 img[class="t1"],
+.form3 img[class="t3"],
+.form3 img[class="t4"],
+.form3 img[class="t6"],
+.form3 img[class="t7"],
+.form3 img[class="t9"],
+.form3 img[class="t11"]{
+	position: absolute;
+	width: 120px;
+}
+.t1{
+
+	margin-left: 285px;
+}
+.t2{
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 405px;
+}
+.t3{
+	margin-left: 555px;
+}
+.t4{
+	margin-left: 725px;
+}
+.t5{
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 845px;
+}
+.t6{
+	margin-left: 995px;
+}
+.t7{
+	margin-top: 180px;
+	margin-left: 420px;
+}
+.t8{
+	position: absolute;
+	margin-top: 230px;
+	margin-left: 540px;
+}
+.t9{
+	margin-top: 180px;
+	margin-left: 860px;
+}
+.t10{
+	position: absolute;
+	margin-top: 484px;
+	margin-left: 700px;
+}
+.t11{
+	margin-top: 308px;
+	margin-left: 642px;
+}
+.t12{
+	position: absolute;
+	margin-top: 526px;
+	margin-left: 642px;
+}
+.form3 img[class="t2"],
+.form3 img[class="t5"]{
+	width: 150px;
+}
+.form3 img[class="t8"]{
+	width: 320px;
+}
+.form3 img[class="t10"]{
+	width: 3px;
+}
+.t12{
+	width: 120px;
+}
+.footer{
+	background-color: #91D8F7;
+	width: 1348px;
+	height: 168px;
+	margin-top:160px;
+	margin-bottom: -8px;
+	margin-right: 0px;
+	margin-left: -8px;
+}
+.footer2{
+	background-color: #91D8F7;
+	width: 1348px;
+	height: 168px;
+	margin-top:1200px;
+	margin-bottom: -8px;
+	margin-right: 0px;
+	margin-left: -8px;
+}
+.flag{
+	position: absolute;
+	width: 70px; 
+	margin-left:40px;
+	margin-top: 20px; 
+}
+.term{
+	margin-left: 360px;
+	font-size: 20px;
+}
+.logo1{
+	width: 72px;
+	height: 72px;
+	margin-left: 550px;
+	position: absolute;
+}
+.logo2{
+	width: 69px;
+	height: 69px;
+	margin-left: 650px;
+	position: absolute;
+}
+.logo3{
+	width: 54px;
+	height: 54px;
+	margin-top: 7px;
+	margin-left: 750px;
+	position: absolute;
+}
+.simbol{
+	position: absolute;
+	margin-top: -30px; 
+	margin-left: 1200px;
+	width: 90px;
+	height:90px;
+}
+.end{
+	position: absolute;
+	width:200px; 
+	margin-left: 40px;
+}
+body{
+	background-color: #F7F7F7;
+}
