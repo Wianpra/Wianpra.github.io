@@ -1,0 +1,249 @@
+* {
+    box-sizing: border-box;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+}
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+header{
+	background-color: #91D8F7;
+	padding: 15px;
+	/*width: 1348px;
+	height: 68px;
+	margin-top: -8px;
+	margin-right: -0px;
+	margin-left: -8px;
+	margin-bottom: 180px;*/
+	
+}
+.logo{
+	position: absolute;
+	width: 50px;
+	margin-top: -5px;
+	margin-left: 5px;
+}
+.tree{
+	font-size: 25px;
+	position: absolute;
+	margin-left: 70px;
+}
+.ikon{
+	margin-top: -5px;
+	margin-left: 280px;
+	width: 30px;
+	height:30px;
+}
+.tree2{
+	margin-left: 820px;
+	font-size: 25px;
+	position: absolute;
+}
+.garis{
+	position: absolute;
+	width: 4px;
+	margin-left: 900px;
+	margin-top: -10px;
+}
+.tree3{
+	margin-left: 920px;
+	font-size: 25px;
+	position: absolute;
+}
+.ikon2{
+	width: 30px;
+	height: 30px;
+	margin-left: 990px;
+}
+.lonceng{
+	position: absolute;
+	width: 40px;
+	margin-top: -7px;
+	margin-left: 720px;
+}
+.akun{
+	position: absolute;
+	width: 240px;
+	margin-left: 780px;
+}
+/*masuk*/
+.judul{
+	font-size: 35px;
+	margin-left: 650px;
+}
+/*.back{
+	width: 1040px;
+	margin-left: 300px;
+	margin-bottom: -164px;
+}*/
+.Daftar
+/*	position: absolute;
+	background-color: white;
+	margin-top: -490px;
+	margin-left: 60px;
+	width: 380px;
+	height: 150px;
+	border-radius: 5px;
+	box-shadow: 4px 8px grey;
+}
+.notif label[for="daf"]{
+	font-size: 25px;
+	margin-left: 60px;
+}
+.notif input[type="submit"]{
+	margin-left: 85px;
+	background-color: white;
+	width: 190px;
+	height: 40px;
+	border: 1px solid;
+	color: #91D8F7;
+	border-radius: 4px;
+	font-family: sans-serif;
+	font-size: 15px;
+}*/
+.FB{
+	position: absolute;
+	background-color: white;
+	margin-top: -290px;
+	margin-left: 60px;
+	width: 380px;
+	height: 150px;
+	border-radius: 5px;
+	box-shadow: 4px 8px grey;
+}
+.face label[for="daf"]{
+	font-size: 25px;
+	margin-left: 60px;
+}
+.ket{
+	margin-left: 90px;
+}
+.fb{
+	margin-left: 85px;
+	width: 190px;
+	height: 40px;
+}
+.Log{
+	position: absolute;
+	background-color: white;
+	margin-top: -490px;
+	margin-left: 530px;
+	width: 740px;
+	height: 440px;
+	border-radius: 5px;
+	box-shadow: 4px 8px grey;
+}
+.title{
+	font-size: 30px;
+	margin-left: 90px;
+}
+.lupa{
+	margin-left: 50px;
+}
+form{
+	margin-left: 10px;
+}
+.Masuk label[for="Email"],
+.Masuk label[for="Password"]{
+	font-family: sans-serif;
+	font-size: 16px;
+	margin-left: 40px;
+}
+.Masuk input[type="text"],
+.Masuk input[type="password"]{
+	width: 88%;
+	height: 30px;
+	margin-left: 40px;
+	background: #eeeeee;
+	border-radius: 5px;
+	border: 1px solid;
+	border-color: steelblue;
+	color: black;
+	font-family: sans-serif;
+	font-size: 16px;
+
+}
+.lihat input[type="checkbox"]{
+	margin-left: 550px;
+}
+.tetap input[type="checkbox"]{
+	margin-left: 40px;
+}
+.submit input[type="submit"]{
+	border-radius: 3px;
+	background-color: steelblue;
+	width: 100px;
+	height: 30px;
+	margin-left: 40px;
+	border: none;
+	color: white;
+}
+.footer{
+	background-color: #91D8F7;
+	width: 1348px;
+	height: 168px;
+	margin-top:160px;
+	margin-bottom: -8px;
+	margin-right: 0px;
+	margin-left: -8px;
+}
+.flag{
+	position: absolute;
+	width: 70px; 
+	margin-left:40px;
+	margin-top: 20px; 
+}
+.term{
+	margin-left: 360px;
+	font-size: 20px;
+}
+.logo1{
+	width: 72px;
+	height: 72px;
+	margin-left: 550px;
+	position: absolute;
+}
+.logo2{
+	width: 69px;
+	height: 69px;
+	margin-left: 650px;
+	position: absolute;
+}
+.logo3{
+	width: 54px;
+	height: 54px;
+	margin-top: 7px;
+	margin-left: 750px;
+	position: absolute;
+}
+.simbol{
+	position: absolute;
+	margin-top: -30px; 
+	margin-left: 1200px;
+	width: 90px;
+	height:90px;
+}
+.end{
+	position: absolute;
+	width:200px; 
+	margin-left: 40px;
+}
+body{
+	background-color: #F7F7F7;
+}

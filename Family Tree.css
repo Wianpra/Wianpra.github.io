@@ -62,11 +62,11 @@ header{
 	font-size: 35px;
 	margin-left: 650px;
 }
-.back{
+/*.back{
 	width: 1040px;
 	margin-left: 300px;
 	margin-bottom: -164px;
-}
+}*/
 .Daftar{
 	position: absolute;
 	background-color: white;
@@ -250,7 +250,7 @@ form{
 .syarat {
 	font-size: 12px;
 }
-/*form*/
+/*form1*/
 .back3{
 	width: 1040px;
 	margin-left: 300px;
@@ -268,96 +268,12 @@ form{
 	margin-top: -50px;
 	margin-left: 430px;
 }
-.pic1{
-	position: absolute;
-	margin-top: -20px;
-	margin-left: 80px;
-	width: 140px;
-}
-.teks1{
-	position: absolute;
-	margin-left: 120px;
-	margin-top: 120px;
-	font-size: 30px;
-}
-.pic2{
-	position: absolute;
-	margin-top: -0px;
-	margin-left: 270px;
-	width: 140px;	
-}
-.teks2{
-	position: absolute;
-	margin-left: 310px;
-	margin-top: 140px;
-	font-size: 30px;
-}
-.pic3{
-	position: absolute;
-	margin-top: -0px;
-	margin-left: 420px;
-	width: 140px;	
-}
-.teks3{
-	position: absolute;
-	margin-left: 470px;
-	margin-top: 140px;
-	font-size: 30px;
-}
-.pic4{
-	position: absolute;
-	margin-top: -0px;
-	margin-left: 610px;
-	width: 140px;	
-}
-.teks4{
-	position: absolute;
-	margin-left: 640px;
-	margin-top: 140px;
-	font-size: 30px;
-}
-.pic5{
-	position: absolute;
-	margin-top: -0px;
-	margin-left: 760px;
-	width: 140px;	
-}
-.teks5{
-	position: absolute;
-	margin-left: 790px;
-	margin-top: 140px;
-	font-size: 30px;
-}
-.pic6{
-	position: absolute;
-	margin-top: -0px;
-	margin-left: 950px;
-	width: 140px;	
-}
-.teks6{
-	position: absolute;
-	margin-left: 980px;
-	margin-top: 140px;
-	font-size: 30px;
-}
-.pic7{
-	position: absolute;
-	margin-top: -0px;
-	margin-left: 1100px;
-	width: 140px;	
-}
-.teks7{
-	position: absolute;
-	margin-left: 1130px;
-	margin-top: 140px;
-	font-size: 30px;
-}
 .form1{
 	position: absolute;
 	background-color: white;
 	width:800px;
 	height: 950px;
-	margin-top: 200px;
+	margin-top: 50px;
 	margin-left: 270px;
 }
 .and{
@@ -456,7 +372,7 @@ form{
 	background-color: white;
 	width:800px;
 	height: 780px;
-	margin-top: 200px;
+	margin-top: 50px;
 	margin-left: 270px;
 }
 .back3{
@@ -464,11 +380,11 @@ form{
 	margin-left: 300px;
 	margin-bottom: -1205px;
 }
-.jud{
+.jud2{
 	position: absolute;
 	font-size: 40px;
 	margin-top: -130px;
-	margin-left: 550px;
+	margin-left: 540px;
 }
 .desk{
 	position: absolute;
@@ -476,152 +392,9 @@ form{
 	margin-top: -50px;
 	margin-left: 430px;
 }
-.pic8{
-	position: absolute;
-	margin-top: -0px;
-	margin-left: 80px;
-	width: 140px;
-}
-.teks8{
-	position: absolute;
-	margin-left: 120px;
-	margin-top: 140px;
-	font-size: 30px;
-}
-.pic9{
-	position: absolute;
-	margin-top: -20px;
-	margin-left: 270px;
-	width: 140px;	
-}
-.teks9{
-	position: absolute;
-	margin-left: 310px;
-	margin-top: 120px;
-	font-size: 30px;
-}
-.pic3{
-	position: absolute;
-	margin-top: -0px;
-	margin-left: 420px;
-	width: 140px;	
-}
-.teks3{
-	position: absolute;
-	margin-left: 470px;
-	margin-top: 140px;
-	font-size: 30px;
-}
-.pic4{
-	position: absolute;
-	margin-top: -0px;
-	margin-left: 610px;
-	width: 140px;	
-}
-.teks4{
-	position: absolute;
-	margin-left: 640px;
-	margin-top: 140px;
-	font-size: 30px;
-}
-.pic5{
-	position: absolute;
-	margin-top: -0px;
-	margin-left: 760px;
-	width: 140px;	
-}
-.teks5{
-	position: absolute;
-	margin-left: 790px;
-	margin-top: 140px;
-	font-size: 30px;
-}
-.pic6{
-	position: absolute;
-	margin-top: -0px;
-	margin-left: 950px;
-	width: 140px;	
-}
-.teks6{
-	position: absolute;
-	margin-left: 980px;
-	margin-top: 140px;
-	font-size: 30px;
-}
-.pic7{
-	position: absolute;
-	margin-top: -0px;
-	margin-left: 1100px;
-	width: 140px;	
-}
-.teks7{
-	position: absolute;
-	margin-left: 1130px;
-	margin-top: 140px;
-	font-size: 30px;
-}
-.and{
-	margin-top: 50px;
-	margin-left: 70px;
-	margin-bottom: 20px;
-	width: 160px;
-}
-.form2 label[for="siapa"],
-.form2 img[class="garis1"],
-.form2 img[class="garis2"]{
+label[for="tite"]{
 	margin-left: 90px;
-
-}
-.form2 label[for="jens"]{
-	position: absolute;
-	margin-left: -604px;
-	margin-top: 50px;
-}
-.form2 img[class="garis1"]{
-	width: 600px;
-	margin-top: 20px;
-}
-.form2 img[class="garis2"]{
-	width: 600px;
-	margin-top: 65px;
-}
-.form2 input[class="radio1"]{
-	margin-left: 288px;
-}
-.form2 input[class="radio2"]{
-	margin-left: 70px;
-}
-.form2 input[class="radio3"]{
-	position: absolute;
-	margin-left: -272.5px;
-	margin-top: 50px;
-}
-.form2 label[for="lk"]{
-	position: absolute;
-	margin-left: -252.5px;
-	margin-top: 50px;
-}
-.form2 img[class="foto1"]{
-	position: absolute;
-	width: 40px;
-	margin-left: -210px;
-	margin-top: 37px;
-}
-.form2 input[class="radio4"]{
-	position: absolute;
-	margin-left: -143.5px;
-	margin-top: 50px;
-}
-.form2 label[for="prmpn"]{
-	position: absolute;
-	margin-left: -123.5px;
-	margin-top: 50px;
-}
-.form2 img[class="foto2"]{
-	position: absolute;
-	width: 40px;
-	margin-left: -68px;
-	margin-top: 37px;
+	font-size: 30px;
 }
 .form2 input[type="text"],
 .form2 select[class="tahun"]{
@@ -633,6 +406,7 @@ form{
 	border: 1px solid;
 	border-color: steelblue;
 }
+.form2 label[for="nakel"],
 .form2 label[for="depan"],
 .form2 label[for="belakang"],
 .form2 label[for="lahir"],
@@ -641,14 +415,114 @@ form{
 	margin-left: 90px;
 }
 .form2 input[type="submit"]{
-	margin-left: 90px;
 	background-color: #57A695;
 	border-radius: 5px;
-	width: 76%;
+	width: 20%;
 	height: 30px;
 	border: none;
 	font-size: 20px;
 	color: black;
+}
+.form2 input[name="lanjut"]{
+	margin-left: 370px;
+}
+/*data diri*/
+.data{
+	position: absolute;
+	background-color: white;
+	width:800px;
+	height: 1190px;
+	margin-top: none;
+	margin-left: 270px;
+}
+.back00{
+	width: 1040px;
+	margin-left: 300px;
+	margin-bottom: -1305px;
+}
+.jud{
+	position: absolute;
+	font-size: 40px;
+	margin-top: -130px;
+	margin-left: 270px;
+}
+.data label[for="awal"]{
+	font-size: 30px;
+	margin-left: 90px;
+}
+.data input[type="text"],
+.data select[class="tahun"]{
+	margin-left: 90px;
+	background-color: #eeeeee;
+	border-radius: 5px;
+	width: 76%;
+	height: 30px;
+	border: 1px solid;
+	border-color: steelblue;
+}
+.data label[for="nakel"],
+.data label[for="depan"],
+.data label[for="belakang"],
+.data label[for="lahir"],
+.data label[for="pohon"],
+.data label[for="embar"],
+.data label[for="konem"],
+.data label[for="pasr"],
+.data label[for="konpasr"]{
+	margin-left: 90px;
+}
+.data input[type="submit"]{
+	margin-left: 90px;
+	background-color: #3C5A99;
+	border-radius: 5px;
+	width: 20%;
+	height: 25px;
+	border: none;
+	font-size: 15px;
+	color: white;
+}
+/*penyimpanan*/
+.simpan{
+	position: absolute;
+	background-color: white;
+	width:800px;
+	height: 500px;
+	margin-top: -100px;
+	margin-left: 270px;
+}
+.back101{
+	width: 1040px;
+	margin-left: 300px;
+	margin-bottom: -505px;
+}
+.jud{
+	position: absolute;
+	font-size: 40px;
+	margin-top: -180px;
+	margin-left: 270px;
+}
+label[for="simp"]{
+	font-size: 30px;
+	margin-left: 90px;
+}
+.simpan img{
+	width:200px;
+}
+.simpan img[class="s1"]{
+	margin-left: 150px;
+}
+.simpan img[class="s2"]{
+	margin-left: 70px;
+}
+label[for="nems1"],
+label[for="nems2"]{
+	font-size: 20px;
+}
+label[for="nems1"]{
+	margin-left: 210px;
+}
+label[for="nems2"]{
+	margin-left: 210px;
 }
 /*tree*/
 .titl{
@@ -744,6 +618,24 @@ form{
 	width: 1348px;
 	height: 168px;
 	margin-top:1200px;
+	margin-bottom: -8px;
+	margin-right: 0px;
+	margin-left: -8px;
+}
+.footer3{
+	background-color: #91D8F7;
+	width: 1348px;
+	height: 168px;
+	margin-top:1300px;
+	margin-bottom: -8px;
+	margin-right: 0px;
+	margin-left: -8px;
+}
+.footer4{
+	background-color: #91D8F7;
+	width: 1348px;
+	height: 168px;
+	margin-top:500px;
 	margin-bottom: -8px;
 	margin-right: 0px;
 	margin-left: -8px;
